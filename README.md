@@ -1,7 +1,7 @@
 # Magic and Mayhem
 A simple card based TTRPG; print-at-home and modify as needed. Please reach out to me with questions or forks!
 
-![Magic and Mayhem Cover]([https://github.com/chris-chalmers/magicandmayhem/blob/main/rulebook-cover.jpg])
+![Magic and Mayhem Cover](https://github.com/chris-chalmers/magicandmayhem/blob/main/rulebook-cover.jpg)
 
 
 # Mission:
