@@ -2,7 +2,9 @@
 
 # Magic and Mayhem: Community Content Creator’s Guide
 
-Welcome to the **Magic and Mayhem** community! This guide is designed for players and creators who want to expand the game with custom cards, dungeons, and narrative modules. Since the game is hosted on GitHub, we use a structured format to ensure everyone’s homebrew content remains compatible with the core system.
+Welcome to the **Magic and Mayhem** community! Magic and mayhem was created around my kitchen table with the idea that anyone can cut an 8-1/2 x 11 in piece of paper into 4 equal cards and draw on them to extend the game. 
+
+This guide is designed for players who want to extend the game with custom cards, dungeons, and narrative modules. If you want to try to officially add your extensions to the core game, You can use GitHub's ###Pull Request### feature to integrate it. Please keep in mind that we use a structured format to ensure everyone’s homebrew content remains compatible with the core system. Your proposal will be reviewed and we may ask you to adjust things in your design if they stray too far from the loose standards described below.
 
 ---
 
@@ -48,7 +50,7 @@ These are attached to players or treasure cards to specify which are compatible.
 ### Technical Specifications
 * **Physical Size:** 4.25" x 5.5" (Large format).
 * **Art Style:** Do whatever you want - seriously!
-* **Design Element:** Each card back should use the images in the card-backs folder: Players, Monsters, Bosses Treasure and Dungeon. This is so users can't tell it's one of your special cards when they are in the deck (unless you want them to!). 
+* **Design Elements:** Each card should have a title bar at the top, an illustration and information in stat blocks on the front. Each card back should use the images in the card-backs folder: Players, Monsters, Bosses Treasure and Dungeon. This is so users can't tell it's one of your special cards when they are in the deck (unless you want them to!). 
 
 
 ---
@@ -56,20 +58,20 @@ These are attached to players or treasure cards to specify which are compatible.
 ## 3. Creating a Custom Player
 When creating a new player card for Magic and Mayhem, please provide the following details in a stat block on the front of the card: 
 
-> ### [Player Name] 
-> ### [Race or Class (elf, dwarf, fighter, rogue)] 
+### [Player Name] 
+### [Race or Class (elf, dwarf, fighter, rogue)] 
 >
-> **HP:** - [This specifies the max number of "life tokens" the player can have. It can be modified with power ups or magic items. ].
+**HP:** - [This specifies the max number of "life tokens" the player can have. It can be modified with power ups or magic items. ].
 >
-> **MOV - [Ability Name]:** [This specifies how many spaces the player can move per turn].
+**MOV** - [Ability Name]:** [This specifies how many spaces the player can move per turn].
 >
-> **DAM - [This specifies how much damage the player does when it attacks] 
+**DAM** - [This specifies how much damage the player does when it attacks] 
 >
-> **RAN - [This specifies from how far away the player can attack] 
+**RAN** - [This specifies from how far away the player can attack] 
 >
-> **Type - [This specifies the type of attack (some monsters can be immune or extra sensitive to different types)] 
+**Type** - [This specifies the type of attack (some monsters can be immune or extra sensitive to different types)] 
 >
-> **Special Ability(ies) - [These are special attacks or actions this player has that are unique to them] 
+**Special Ability(ies)** - [These are special attacks or actions this player has that are unique to them] 
 >
 ### 3D Models
 You can generate 3D printable models for your player using an online service like meshy.ai, Eldritch Foundry, or looking for free models on popular 3D printing websites like thingiverse.com. 
