@@ -81,26 +81,26 @@ You can generate 3D printable models for your player using an online service lik
 ## 4. Creating a Custom Monster
 When creating a monster card for Magic and Mayhem, please provide the following details in a stat block on the front of the card: 
 
-> ### [Monster Name] 
+### [Monster Name] 
 >
-> **HP:** - [This specifies how many "life tokens" the monster has ].
+**HP:** - [This specifies how many "life tokens" the monster has ].
 >
-> **MOV** - [This specifies how many spaces the monster can move per turn].
+**MOV** - [This specifies how many spaces the monster can move per turn].
 >
-> **DAM** - [This specifies how much damage the monster does when it attacks] (Monsters could have multiple attacks that are decided by rolling the die).
+**DAM** - [This specifies how much damage the monster does when it attacks] (Monsters could have multiple attacks that are decided by rolling the die).
 >
-> **RAN** - [This specifies from how far away the monster can attack] 
+**RAN** - [This specifies from how far away the monster can attack] 
 >
-> **Type** - [This specifies the type of attack (some players can be immune or extra sensitive to different types)] 
+**Type** - [This specifies the type of attack (some players can be immune or extra sensitive to different types)] 
 >
 If you are creating a TRAP card, just write what kind of effect the trap has on players that trigger it, and what range its effect has.
 
 ---
 
 ## 5. Creating a Custom Treasure
-Treasure cards are the life blood of the game, they give the players extra abilities to use in cooperation against monsters or the dungeon itself. Describe 
-
-> ### [Monster Name]
+Treasure cards are the life blood of the game, they give the players extra abilities to use in cooperation against monsters or the dungeon itself. Describe the treasure and any attributes or abilities it gives to players in a note block. If it's a weapon, it should also have ###DAM### ###RAN### and ###Type### stats in a stat block.
+> 
+Add an illustration and a title of course, and maybe a treasure ###Type### in the top right of the card (weapon, spell, magical item, skill etc... Treasure cards are a little looser and more varied so be creative! Any way that these cards can alter the game and mix things up is good to go!
 
 ---
 
@@ -108,8 +108,8 @@ Treasure cards are the life blood of the game, they give the players extra abili
 Even though this isn't a software project, we use GitHub to track versions of the rulebook and manage community assets.
 
 1.  **Fork the Repo:** Create your own copy of the `magicandmayhem` repository.
-2.  **Add Your Content:** * Place text-based content (Rules, Lore, Stat Blocks) in the `/content/homebrew` folder as `.md` files.
-    * Place card art and templates in the `/assets/community-cards` folder.
+2.  **Add Your Content:** * Update the Magic-and-mayhem-cards.pdf file with your new card fronts; Add card backs, stl files or figurines to their respective folders. 
+3.  Put new module content in their ###own### folder named for the module.
 3.  **Submit a Pull Request (PR):**
     * Title your PR with the category (e.g., `[MONSTER] The Cackling Hag`).
     * In the description, explain how you balanced the card against existing Bosses or Players.
