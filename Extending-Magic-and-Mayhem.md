@@ -15,8 +15,8 @@ Magic and Mayhem is built on **Collaborative Play**. When designing content, kee
 
 * **Designing Cooperative "Synergy" Abilities**
 The heart of **Magic and Mayhem** is the "Synergy" system.
->
->When creating Player cards, try to include at least one ability that interacts with another player's status.
+
+* When creating Player cards, try to include at least one ability that interacts with another player's status.
 
 * *Example:* **"Flash Freeze"** — Deals 2 damage. If another player has already applied **[Drenched]** to this target, the target is **[Immobilized]** for 1 turn.
 
