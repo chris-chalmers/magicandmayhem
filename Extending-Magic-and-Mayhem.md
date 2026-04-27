@@ -35,7 +35,7 @@ Magic and Mayhem cards come in 5 types. Feel free to make up and add your own! K
 * Boss
 * Treasure
 * Dungeon
-* [Story drive modules may have extra ###"Narrative"### cards for players to read when they land on a specific dungeon card or uncover a feature that needs more explanation]
+* Story driven modules may have extra ###"Narrative"### cards for players to read when they land on a specific dungeon card or uncover a feature that needs more explanation
 
 ### Ability Colors
 See the chart in Rules_ Magic and Mayhem.pdf 
@@ -61,17 +61,17 @@ When creating a new player card for Magic and Mayhem, please provide the followi
 ### [Player Name] 
 ### [Race or Class (elf, dwarf, fighter, rogue)] 
 >
-**HP:** - [This specifies the max number of "life tokens" the player can have. It can be modified with power ups or magic items. ].
+**HP:** - This specifies the max number of "life tokens" the player can have. It can be modified with power ups or magic items.
 >
-**MOV** - [Ability Name]:** [This specifies how many spaces the player can move per turn].
+**MOV** - This specifies how many spaces the player can move per turn.
 >
-**DAM** - [This specifies how much damage the player does when it attacks] 
+**DAM** - This specifies how much damage the player does when it attacks 
 >
-**RAN** - [This specifies from how far away the player can attack] 
+**RAN** - This specifies from how far away the player can attack
 >
-**Type** - [This specifies the type of attack (some monsters can be immune or extra sensitive to different types)] 
+**Type** - This specifies the type of attack (some monsters can be immune or extra sensitive to different types)
 >
-**Special Ability(ies)** - [These are special attacks or actions this player has that are unique to them] 
+**Special Ability(ies)** - These are special attacks or actions this player has that are unique to them
 >
 ### 3D Models
 You can generate 3D printable models for your player using an online service like meshy.ai, Eldritch Foundry, or looking for free models on popular 3D printing websites like thingiverse.com. 
@@ -83,15 +83,15 @@ When creating a monster card for Magic and Mayhem, please provide the following 
 
 ### [Monster Name] 
 >
-**HP:** - [This specifies how many "life tokens" the monster has ].
+**HP:** - This specifies how many "life tokens" the monster has.
 >
-**MOV** - [This specifies how many spaces the monster can move per turn].
+**MOV** - This specifies how many spaces the monster can move per turn.
 >
-**DAM** - [This specifies how much damage the monster does when it attacks] (Monsters could have multiple attacks that are decided by rolling the die).
+**DAM** - This specifies how much damage the monster does when it attacks (Monsters could have multiple attacks that are decided by rolling the die).
 >
-**RAN** - [This specifies from how far away the monster can attack] 
+**RAN** - This specifies from how far away the monster can attack 
 >
-**Type** - [This specifies the type of attack (some players can be immune or extra sensitive to different types)] 
+**Type** - This specifies the type of attack (some players can be immune or extra sensitive to different types) 
 >
 If you are creating a TRAP card, just write what kind of effect the trap has on players that trigger it, and what range its effect has.
 
