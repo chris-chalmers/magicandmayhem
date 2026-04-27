@@ -5,7 +5,7 @@ A simple card based TTRPG; Print-at-home and modify as needed. Please reach out 
 This is a simple tabletop dungeon crawler that prioritizes cooperation and creative problem solving. Accessible to both kids and adults and can be completed in under an hour or last longer depending on the choice of setup. Made to be expandable.
 Gameplay is rapid, entertaining and hilarious with surprises, group challenges and instant gratification (ie:) Does not require advanced knowledge or tons of reading or looking things up. Does not need a DM or more than 1 6-sided die. Uses counters instead of writing for stat & HP changes. Complexity comes from logical, simple combinations of players' stats and abilities.
 
-![Magic and Mayhem Cover](https://github.com/chris-chalmers/magicandmayhem/blob/main/rulebook-cover.jpg)
+![Magic and Mayhem Cover](https://github.com/chris-chalmers/magicandmayhem/blob/main/Magic-and-Mayhem-Cover-16x9.jpg)
 
 # Setup
 Print Magic-and-mayhem-cards.pdf, double-sided, preferably on glossy card stock. Cut each page into 1/4 sheets for cards (4.25" x 5.5"). You can also send the pdf to a print shop like fedex and have them cut the cards out with rounded corners (this can get expensive). Separate the cards into piles of Player, Monster Boss, Dungeon and Treasure cards. To save cost you can print in black and white and manually color the color coded ability dots on the player and treasure cards.
