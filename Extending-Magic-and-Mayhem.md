@@ -14,12 +14,15 @@ Magic and Mayhem is built on **Collaborative Play**. When designing content, kee
 * **Cooperative Abilities:** Designing a "Lone Wolf" character is discouraged. Instead, focus on abilities that set up teammates for success or require two or more players to trigger.
 
 * **Designing Cooperative "Synergy" Abilities**
-The heart of **Magic and Mayhem** is the "Synergy" system. When creating Player cards, try to include at least one ability that interacts with another player's status.
+The heart of **Magic and Mayhem** is the "Synergy" system.
+>
+>When creating Player cards, try to include at least one ability that interacts with another player's status.
 
 * *Example:* **"Flash Freeze"** — Deals 2 damage. If another player has already applied **[Drenched]** to this target, the target is **[Immobilized]** for 1 turn.
 
 * When designing monsters or bosses, give them a secret weakness that two or more players can exploit in concert. Make it not so easy to discover what that weakness is. Magical item or weapon treasure cards should help players help each other.
-*Example:* **"Fire Dragon"** — Takes double damage if another player has already applied **[Frozen]** to this target.
+  
+* *Example:* **"Fire Dragon"** — Takes double damage if another player has already applied **[Frozen]** to this target.
 
 ---
 
